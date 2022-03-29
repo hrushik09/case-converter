@@ -1,0 +1,23 @@
+.title {
+    font-size: 3em;
+    margin: 0 0 0.5em 10px;
+}
+
+.text-area {
+    width: 90vw;
+    height: 60vh;
+    margin: 0 0 0 10px;
+}
+
+.all-buttons {
+    display: flex;
+    flex-flow: row;
+    margin: 1em 0 0 10px;
+}
+
+#upper-case, #lower-case, #proper-case, #sentence-case, #save-text-file {
+    font-size: 2em;
+    background-color: coral;
+    border: none;
+    margin: 0 1em 0 0;
+}
